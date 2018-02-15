@@ -1,0 +1,42 @@
+
+*{
+	box-sizing:border-box; 
+}
+body{
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+}
+/*висота строки line-height: 1.5;*/
+.header{
+	font-style: 20px;
+
+}
+.header span{
+	display: block;
+}
+.form{
+	padding: 30px 20px;
+	border: 5px solid #2727d9;
+}
+.form-header, .sectiom-header{
+	margin-bottom: 20px;
+	font-style: 20px;
+	font-weight: 900;
+}
+.form-btn{
+	background-color: #2727d9;
+	margin: 12px auto;
+}
+.feature{
+	margin: 60px auto;
+}
+.feature p{
+	margin-top: 20px;
+}
+.video{
+	margin-bottom: 30px;
+}
+.feature-box{
+	height: 160px;
+}
+
